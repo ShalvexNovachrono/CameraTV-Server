@@ -1,0 +1,15 @@
+{
+  "name": "cameratv-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Nava Majumdar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ws": "^8.16.0"
+  }
+}
